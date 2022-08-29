@@ -1,2 +1,3 @@
 import subprocess
-subprocess.call([r'main.bat'])
+subprocess.call([r"main.bat"])
+print("Starting...")
