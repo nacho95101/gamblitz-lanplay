@@ -1,2 +1,2 @@
 import os
-os.system('cmd /k npm start -- --port 80')
+os.system('cmd /k npm start')
